@@ -1,9 +1,19 @@
 h1 {
-    color: skyblue; 
+    color: cyan; 
+    text-align:left;
 }
 h2 {
     color: magenta;
 }
 body {
-    background-image: url ("https://cdn0.peopleimages.com/picture/201802/1648927-seeing-their-success-all-come-together-fit_400_400.jpg");
+    background-image: url("https://www.roberthalf.com/sites/default/files/styles/full_width_content_image_1x_small_480/public/2018-05/Hire%20the%20right%20programmer.jpg?itok=tji08dRp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+span {
+   color: cyan;
+}
+.fav {
+    display: flex;
 }
