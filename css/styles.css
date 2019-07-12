@@ -16,4 +16,5 @@ span {
 }
 .fav {
     display: flex;
+    justify-content: space-between;
 }
