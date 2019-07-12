@@ -6,7 +6,7 @@ h2 {
     color: magenta;
 }
 body {
-    background-image: url("https://www.roberthalf.com/sites/default/files/styles/full_width_content_image_1x_small_480/public/2018-05/Hire%20the%20right%20programmer.jpg?itok=tji08dRp");
+    background-image: url("https://www.nakedconversations.com/wp-content/uploads/2017/06/Female-Computer-Programmer_edited1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -17,4 +17,7 @@ span {
 .fav {
     display: flex;
     justify-content: space-between;
+}
+p,li{
+    color:black;
 }
