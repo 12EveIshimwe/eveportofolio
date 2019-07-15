@@ -1,8 +1,9 @@
-h1 {
-    color: cyan; 
-    text-align:left;
-}
 h2 {
+    color: cyan; 
+    text-align:center;
+    font-size: 30px;
+}
+h5 {
     color: magenta;
 }
 body {
@@ -13,11 +14,65 @@ body {
 }
 span {
    color: cyan;
+   font-size:20px;
 }
-.fav {
+.my {
     display: flex;
     justify-content: space-between;
 }
+/* .fav {
+    float:left;
+    text-align:center;
+    padding:50px;
+    width:33px;
+    margin:10px;
+}
+.pet {
+    float:left;
+    text-align:center;
+    padding:50px;
+    width:33px;
+    margin:10px;
+}
+.first {
+    float:left;
+    text-align:center;
+    padding:50px;
+    width:33px;
+    margin:10px;
+} */
 p,li{
     color:black;
+}
+img {
+    float: left;
+}
+h5 {
+    text-align: center;
+}
+#me {
+    padding:20px;
+}
+h5 {
+    font-size:30px;
+}
+
+#eve>h1 {
+    text-align: center;
+    font-size: 45px;
+    color: red;
+}
+#me{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-evenly;
+    margin:0px auto;
+    
+}
+#me>img{
+    width:300px;
+    
+}
+#me>p{
+    float: left;
 }
