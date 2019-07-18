@@ -1,5 +1,5 @@
 # Eve Portofolio
-## This Eve portofolio contains his information and some of the projects she did.
+## This Eve portofolio contains her information and some of the projects she did.
 ## Friday,The 12th July 2019, 21:23
 ## Evelyne N. Ishimwe
 ## In this portofolio,you'll meet some of Eve's hobbies,interest and some educational background. Some of the projects she have done recently.
